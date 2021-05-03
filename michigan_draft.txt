@@ -1,0 +1,409 @@
+--- When using SR data, please cite us and provide a link and/or a mention.
+
+
+ 
+Rk,Year,Lg,Rnd,Pick,Tm,Player,Pos,
+1,2021,NFL,1,21,IND,Kwity Paye\PayeKw00,DL,College Stats
+2,2021,NFL,3,68,ATL,Jalen Mayfield\MayfJa00,OL,College Stats
+3,2021,NFL,3,89,HOU,Nico Collins\CollNi00,WR,College Stats
+4,2021,NFL,3,102,SFO,Ambry Thomas\ThomAm00,DB,College Stats
+5,2021,NFL,5,177,NWE,Cameron McGrone\McGrCa00,LB,College Stats
+6,2021,NFL,6,202,CIN,Chris Evans\EvanCh02,RB,College Stats
+7,2020,NFL,1,24,NOR,Cesar Ruiz\RuizCe00,C,College Stats
+8,2020,NFL,2,60,NWE,Josh Uche\UcheJo00,LB,College Stats
+9,2020,NFL,4,143,BAL,Ben Bredeson\BredBe00,G,College Stats
+10,2020,NFL,5,162,WAS,Khaleke Hudson\HudsKh00,LB,College Stats
+11,2020,NFL,5,177,KAN,Michael Danna\DannMi00,DE,College Stats
+12,2020,NFL,6,182,NWE,Michael Onwenu\OnweMi00,G,College Stats
+13,2020,NFL,6,187,CLE,Donovan Peoples-Jones\PeopDo00,WR,College Stats
+14,2020,NFL,6,192,GNB,Jon Runyan\RunyJo00,T,College Stats
+15,2020,NFL,6,205,MIN,Josh Metellus\MeteJo00,S,College Stats
+16,2020,NFL,6,213,IND,Jordan Glasgow\GlasJo00,LB,College Stats
+17,2019,NFL,1,10,PIT,Devin Bush Jr.\BushDe01,LB,College Stats
+18,2019,NFL,1,12,GNB,Rashan Gary\GaryRa00,LB,College Stats
+19,2019,NFL,3,77,NWE,Chase Winovich\WinoCh00,DE,College Stats
+20,2019,NFL,3,79,LAR,David Long\LongDa02,CB,College Stats
+21,2019,NFL,5,141,PIT,Zach Gentry\GentZa00,TE,College Stats
+22,2018,NFL,3,97,ARI,Mason Cole\ColeMa02,C,College Stats
+23,2018,NFL,5,140,OAK,Maurice Hurst Jr.\HursMa00,DT,College Stats
+24,2017,NFL,1,25,CLE,Jabrill Peppers\PeppJa00,S,College Stats
+25,2017,NFL,1,28,DAL,Taco Charlton\CharTa00,DE,College Stats
+26,2017,NFL,3,74,BAL,Chris Wormley\WormCh00,DE,College Stats
+27,2017,NFL,3,92,DAL,Jourdan Lewis\LewiJo01,CB,College Stats
+28,2017,NFL,3,95,SEA,Lano Hill\HillDe02,S,College Stats
+29,2017,NFL,3,106,SEA,Amara Darboh\DarbAm00,WR,College Stats
+30,2017,NFL,4,120,MIN,Ben Gedeon\GedeBe00,ILB,College Stats
+31,2017,NFL,4,138,CIN,Ryan Glasgow\GlasRy00,DT,College Stats
+32,2017,NFL,4,139,KAN,Jehu Chesson\ChesJe00,WR,College Stats
+33,2017,NFL,5,145,DEN,Jake Butt\ButtJa00,TE,College Stats
+34,2017,NFL,6,197,NYJ,Jeremy Clark\ClarJe04,CB,College Stats
+35,2016,NFL,3,95,DET,Graham Glasgow\GlasGr00,C,College Stats
+36,2016,NFL,4,132,BAL,Willie Henry\HenrWi00,DT,College Stats
+37,2016,NFL,6,191,DET,Jake Rudock\RudoJa00,QB,College Stats
+38,2015,NFL,2,41,CAR,Devin Funchess\FuncDe00,TE,College Stats
+39,2015,NFL,2,63,SEA,Frank Clark\ClarFr01,DE,College Stats
+40,2015,NFL,4,129,GNB,Jake Ryan\RyanJa00,OLB,College Stats
+41,2014,NFL,1,11,TEN,Taylor Lewan\LewaTa00,T,College Stats
+42,2014,NFL,3,95,DEN,Michael Schofield\SchoMi00,OL,College Stats
+43,2014,NFL,7,244,NWE,Jeremy Gallon\GallJe00,WR,College Stats
+44,2013,NFL,5,135,JAX,Denard Robinson\RobiDe00,WR,College Stats
+45,2013,NFL,6,178,NYJ,William Campbell\CampWi00,OL,College Stats
+46,2012,NFL,3,82,TEN,Mike Martin\MartMi01,DT,College Stats
+47,2012,NFL,7,226,SDG,David Molk\MolkDa00,C,College Stats
+48,2012,NFL,7,238,KAN,Junior Hemingway\HemiJu00,WR,College Stats
+49,2011,NFL,2,61,SDG,Jonas Mouton\MoutJo00,LB,College Stats
+50,2011,NFL,6,201,SDG,Stephen Schilling\SchiSt00,G,College Stats
+51,2010,NFL,1,13,PHI,Brandon Graham\GrahBr99,DE,College Stats
+52,2010,NFL,5,150,NWE,Zoltan Mesko\MeskZo99,P,College Stats
+53,2010,NFL,7,251,OAK,Stevie Brown\BrowSt99,DB,College Stats
+54,2009,NFL,4,136,IND,Terrance Taylor,DT,
+55,2009,NFL,6,179,CIN,Morgan Trent\TrenMo99,DB,College Stats
+56,2008,NFL,1,1,MIA,Jake Long\LongJa20,T,College Stats
+57,2008,NFL,2,57,MIA,Chad Henne\HennCh01,QB,College Stats
+58,2008,NFL,3,78,NWE,Shawn Crable\CrabSh99,LB,College Stats
+59,2008,NFL,3,95,NYG,Mario Manningham\MannMa01,WR,College Stats
+60,2008,NFL,6,202,IND,Mike Hart\HartMi00,RB,College Stats
+61,2008,NFL,7,237,NOR,Adrian Arrington\ArriAd00,WR,College Stats
+62,2007,NFL,1,18,CIN,Leon Hall\HallLe98,DB,College Stats
+63,2007,NFL,2,33,ARI,Alan Branch\BranAl99,DT,College Stats
+64,2007,NFL,2,46,PIT,LaMarr Woodley\WoodLa99,DE,College Stats
+65,2007,NFL,2,47,NYJ,David Harris\HarrDa99,LB,College Stats
+66,2007,NFL,5,142,ARI,Steve Breaston\BreaSt00,WR,College Stats
+67,2007,NFL,6,207,BAL,Prescott Burgess\BurgPr99,LB,College Stats
+68,2007,NFL,7,216,WAS,Tyler Ecker,TE,
+69,2006,NFL,4,107,ARI,Gabe Watson\WatsGa20,DT,
+70,2006,NFL,4,109,PHI,Jason Avant\AvanJa00,WR,College Stats
+71,2006,NFL,7,244,TAM,Tim Massaquoi\MassTi20,TE,College Stats
+72,2005,NFL,1,3,CLE,Braylon Edwards\EdwaBr00,WR,College Stats
+73,2005,NFL,1,29,IND,Marlin Jackson\JackMa22,DB,College Stats
+74,2005,NFL,2,33,SFO,David Baas\BaasDa20,G,College Stats
+75,2004,NFL,1,26,CIN,Chris Perry\PerrCh00,RB,College Stats
+76,2004,NFL,3,85,DEN,Jeremy LeSueur\LeSuJe20,DB,College Stats
+77,2004,NFL,7,202,ARI,John Navarre\NavaJo00,QB,College Stats
+78,2004,NFL,7,221,MIA,Tony Pape,G,
+79,2003,NFL,2,41,HOU,Bennie Joppru\JoppBe00,TE,College Stats
+80,2003,NFL,2,53,NYJ,Victor Hobson\HobsVi20,LB,College Stats
+81,2003,NFL,3,85,NYJ,B.J. Askew\AskeB.00,FB,College Stats
+82,2003,NFL,6,192,HOU,Drew Henson\HensDr00,QB,College Stats
+83,2003,NFL,6,198,IND,Cato June\JuneCa99,LB,College Stats
+84,2003,NFL,7,240,NYG,Charles Drake,DB,
+85,2002,NFL,3,86,TAM,Marquis Walker,WR,
+86,2002,NFL,4,128,PIT,Larry Foote\FootLa20,LB,College Stats
+87,2002,NFL,5,154,NYJ,Jonathan Goodwin\GoodJo23,G,
+88,2002,NFL,7,247,JAX,Hayden Epstein\epstehay01,K,College Stats
+89,2001,NFL,1,8,CHI,David Terrell\TerrDa00,WR,College Stats
+90,2001,NFL,1,17,SEA,Steve Hutchinson\HutcSt00,G,College Stats
+91,2001,NFL,1,18,DET,Jeff Backus\BackJe20,T,
+92,2001,NFL,2,38,CHI,Anthony Thomas\ThomAn01,RB,College Stats
+93,2001,NFL,2,43,JAX,Maurice Williams\WillMa25,T,
+94,2000,NFL,2,40,DEN,Ian Gold\GoldIa00,LB,College Stats
+95,2000,NFL,4,110,CLE,Aaron Shea\SheaAa00,TE,College Stats
+96,2000,NFL,4,122,IND,Josh Williams\WillJo30,DT,
+97,2000,NFL,6,177,NYG,Dhani Jones\JoneDh20,LB,
+98,2000,NFL,6,199,NWE,Tom Brady\BradTo00,QB,College Stats
+99,2000,NFL,7,235,IND,Rob Renes,DT,
+100,1999,NFL,2,37,WAS,Jon Jansen\JansJo20,T,
+101,1999,NFL,5,136,PIT,Jerame Tuman\TumaJe00,TE,College Stats
+102,1999,NFL,6,171,SFO,Tai Streets\StreTa00,WR,College Stats
+103,1999,NFL,6,205,NYG,Andre Weathers\WeatAn20,DB,College Stats
+104,1998,NFL,1,4,OAK,Charles Woodson\WoodCh00,DB,College Stats
+105,1998,NFL,3,81,NWE,Chris Floyd\FloyCh00,RB,College Stats
+106,1998,NFL,3,91,DEN,Brian Griese\GrieBr00,QB,College Stats
+107,1998,NFL,4,105,CIN,Glen Steele\SteeGl20,DT,
+108,1998,NFL,5,153,DEN,Chris Howard\HowaCh00,RB,College Stats
+109,1997,NFL,3,76,CIN,Rod Payne\PaynRo20,C,
+110,1997,NFL,4,97,NWE,Damon Denson\DensDa20,G,
+111,1997,NFL,7,217,CIN,William Carr,DT,
+112,1996,NFL,1,8,CAR,Tim Biakabutuka\BiakTi00,RB,College Stats
+113,1996,NFL,2,34,NYG,Amani Toomer\ToomAm00,WR,College Stats
+114,1996,NFL,4,109,HOU,Jon Runyan\RunyJo20,T,
+115,1996,NFL,5,136,NOR,Mercury Hayes\HayeMe21,WR,College Stats
+116,1996,NFL,5,158,DET,Kerwin Waldroup\WaldKe20,DE,
+117,1996,NFL,7,244,BUF,Jay Riemersma\RiemJa00,TE,College Stats
+118,1995,NFL,1,17,NYG,Tyrone Wheatley\WheaTy00,RB,College Stats
+119,1995,NFL,1,23,NWE,Ty Law\LawxTy00,DB,College Stats
+120,1995,NFL,1,31,KAN,Trezelle Jenkins\JenkTr20,T,
+121,1995,NFL,2,45,BUF,Todd Collins\CollTo00,QB,College Stats
+122,1995,NFL,5,138,OAK,Matt Dyson\DysoMa20,LB,
+123,1994,NFL,1,29,CLE,Derrick Alexander\AlexDe00,WR,College Stats
+124,1993,NFL,1,14,CLE,Steve Everitt\EverSt20,C,
+125,1993,NFL,2,37,CIN,Tony McGee\McGeTo00,TE,College Stats
+126,1993,NFL,3,64,SDG,Joe Cocozzo\CocoJo20,G,
+127,1993,NFL,4,110,NWE,Corwin Brown\BrowCo21,DB,College Stats
+128,1993,NFL,8,217,PHI,Doug Skene\SkenDo20,G,
+129,1993,NFL,8,219,SFO,Elvis Grbac\GrbaEl00,QB,College Stats
+130,1992,NFL,1,4,WAS,Desmond Howard\HowaDe00,WR,College Stats
+131,1992,NFL,2,32,RAI,Greg Skrepenak\SkreGr20,T,College Stats
+132,1992,NFL,4,101,KAN,Mike Evans\EvanMi21,DT,
+133,1992,NFL,7,186,KAN,Erick Anderson\AndeEr20,LB,College Stats
+134,1992,NFL,11,281,RAM,Brian Townsend\TownBr20,LB,
+135,1992,NFL,12,336,WAS,Matt Elliott\ElliMa20,G,
+136,1991,NFL,1,27,NYG,Jarrod Bunch\BuncJa00,FB,College Stats
+137,1991,NFL,5,112,NWE,Jon Vaughn\VaugJo00,RB,College Stats
+138,1991,NFL,6,140,NWE,David Key\KeyxDa20,DB,
+139,1991,NFL,7,180,MIN,Tripp Welborne\WelbTr20,DB,College Stats
+140,1991,NFL,8,212,PIT,Dean Dingman,G,
+141,1991,NFL,8,218,KAN,Tom Dohring\DohrTo20,T,
+142,1991,NFL,11,291,DAL,Tony Boles,RB,
+143,1990,NFL,2,45,CLE,Leroy Hoard\HoarLe00,RB,College Stats
+144,1990,NFL,3,80,NWE,Greg McMurtry\McMuGr00,WR,College Stats
+145,1990,NFL,4,97,PIT,Chris Calloway\CallCh00,WR,College Stats
+146,1990,NFL,6,163,SDG,Derrick Walker\WalkDe00,TE,College Stats
+147,1990,NFL,11,284,CHI,Brent White,DE,
+148,1989,NFL,4,109,BUF,John Kolesar,WR,
+149,1989,NFL,5,118,PIT,David Arnold\ArnoDa20,DB,College Stats
+150,1989,NFL,6,161,RAM,Mark Messner\MessMa20,LB,College Stats
+151,1988,NFL,2,36,NYG,Jumbo Elliott\ElliJu00,T,
+152,1988,NFL,4,107,TAM,Monte Robbins,P,
+153,1988,NFL,4,109,WAS,Jamie Morris\MorrJa00,RB,College Stats
+154,1987,NFL,1,26,CHI,Jim Harbaugh\HarbJi00,QB,College Stats
+155,1987,NFL,3,79,NWE,Bob Perryman\PerrBo00,RB,College Stats
+156,1987,NFL,4,92,DET,Garland Rivers\RiveGa21,DB,College Stats
+157,1987,NFL,5,134,SFO,Paul Jokisch,WR,
+158,1987,NFL,9,226,SDG,Thomas Wilcher,RB,
+159,1986,NFL,3,65,CIN,Mike Hammerstein\HammMi20,DE,College Stats
+160,1986,NFL,3,80,RAI,Brad Cochran,DB,
+161,1986,NFL,4,91,CIN,Eric Kattus\KattEr00,TE,College Stats
+162,1986,NFL,12,306,TAM,Clay Miller\MillCl21,T,
+163,1985,NFL,1,17,DAL,Kevin Brooks\BrooKe20,DT,
+164,1984,NFL,2*,33,SDG,Steve Smith,QB,
+165,1984,NFL,2*,52,PIT,Tom Dixon,C,
+166,1984,NFL,3,71,CHI,Stefan Humphries\HumpSt20,G,
+167,1984,NFL,4,88,PHI,Evan Cooper\CoopEv20,DB,College Stats
+168,1983,NFL,2,40,DET,Rich Strenger\StreRi20,T,
+169,1983,NFL,2,42,HOU,Keith Bostic\BostKe00,DB,College Stats
+170,1983,NFL,8,198,HOU,Robert Thompson\ThomRo23,LB,
+171,1983,NFL,8,218,PIT,Craig Dunaway\DunaCr20,TE,College Stats
+172,1983,NFL,8,220,DAL,Lawrence Ricks\RickLa20,RB,College Stats
+173,1983,NFL,9,237,NYG,Ali Haji-Sheikh\hajisali01,K,College Stats
+174,1983,NFL,12,334,MIA,Anthony Carter\CartAn00,WR,College Stats
+175,1982,NFL,1,18,NYG,Butch Woolfolk\WoolBu00,RB,College Stats
+176,1982,NFL,2,29,SFO,Bubba Paris\PariBu20,T,
+177,1982,NFL,3,72,HOU,Stan Edwards\EdwaSt00,RB,College Stats
+178,1982,NFL,4,91,RAI,Ed Muransky\MuraEd20,T,College Stats
+179,1982,NFL,4,101,DAL,Brian Carpenter\CarpBr20,DB,College Stats
+180,1982,NFL,6,146,CHI,Kurt Becker\BeckKu20,G,College Stats
+181,1982,NFL,7,194,CIN,Ben Needham,LB,
+182,1981,NFL,1,9,RAM,Mel Owens\OwenMe20,LB,College Stats
+183,1981,NFL,4,104,RAM,George Lilja\LiljGe20,G,
+184,1981,NFL,8,197,NYG,John Powers,G,
+185,1981,NFL,10,264,DET,Andy Cannavino,LB,
+186,1980,NFL,1,6,STL,Curtis Greer\GreeCu21,DE,College Stats
+187,1980,NFL,2,33,STL,Doug Marsh\MarsDo00,TE,College Stats
+188,1980,NFL,2,47,NYJ,Ralph Clayton\ClayRa22,WR,College Stats
+189,1980,NFL,4,96,NOR,Mike Jolly\JollMi20,DB,College Stats
+190,1980,NFL,5,131,DEN,Mike Harden\HardMi21,DB,College Stats
+191,1980,NFL,7,167,CIN,Ron Simpkins\SimpRo20,LB,College Stats
+192,1979,NFL,1,24,MIA,Jon Giesler\GiesJo20,T,
+193,1979,NFL,4,86,PIT,Russell Davis\DaviRu00,RB,College Stats
+194,1979,NFL,5,111,SFO,Tom Seabron\SeabTo21,LB,
+195,1979,NFL,5,120,NOR,Harlan Huckleby\HuckHa00,RB,College Stats
+196,1979,NFL,5,129,MIN,Jerry Meter,LB,
+197,1979,NFL,5,132,DEN,Rick Leach,QB,
+198,1979,NFL,6,149,NYJ,Bill Dufek,G,
+199,1978,NFL,1,13,ATL,Mike Kenn\KennMi00,T,
+200,1978,NFL,1,26,GNB,John Anderson\AndeJo20,LB,College Stats
+201,1978,NFL,2,47,SFO,Walt Downing\DownWa20,G,
+202,1978,NFL,6,150,DET,Dwight Hicks\HickDw00,DB,
+203,1978,NFL,11,294,CIN,Mark Donahue\DonaMa20,G,College Stats
+204,1977,NFL,2,45,DEN,Rob Lytle\LytlRo00,RB,College Stats
+205,1977,NFL,3,75,PIT,Jim Smith\SmitJi01,WR,College Stats
+206,1977,NFL,6,163,BAL,Calvin O'Neal\ONeaCa20,LB,
+207,1977,NFL,8,197,BUF,Greg Morton\MortGr20,DE,
+208,1977,NFL,9,249,NWE,Jerry Vogele,LB,
+209,1977,NFL,10,256,NYJ,John Hennessy\HennJo20,LB,
+210,1976,NFL,4,104,NYG,Gordon Bell\BellGo00,RB,College Stats
+211,1976,NFL,4,109,BUF,Dan Jilek\JileDa20,LB,
+212,1976,NFL,5,126,SEA,Don Dufek\DufeDo20,DB,
+213,1976,NFL,5,129,NYJ,Steve King,T,
+214,1976,NFL,9,252,DEN,Jim Czirr,C,
+215,1976,NFL,10,268,SDG,Jeff Perlinger,DE,
+216,1976,NFL,13,364,WAS,Waymon Britt,DB,
+217,1975,NFL,1,26,PIT,Dave Brown\BrowDa01,DB,College Stats
+218,1975,NFL,6,144,DET,Dennis Franklin\FranDe00,WR,College Stats
+219,1975,NFL,7,166,BUF,Gil Chapman\ChapGi00,WR,College Stats
+220,1975,NFL,7,175,BUF,Harry Banks,DB,
+221,1975,NFL,8,187,BAL,Greg Denboer,TE,
+222,1975,NFL,9,219,DET,Steve Strinko,LB,
+223,1975,NFL,10,241,NOR,Chuck Heater,RB,
+224,1975,NFL,11,279,BUF,Tom Drake,DB,
+225,1975,NFL,13,315,ATL,Carl Russ\RussCa20,LB,
+226,1974,NFL,1,20,CHI,Dave Gallagher\GallDa20,DE,College Stats
+227,1974,NFL,2,36,NOR,Paul Seal\SealPa00,TE,College Stats
+228,1974,NFL,2,37,BAL,Ed Shuttlesworth,RB,
+229,1974,NFL,4,83,SFO,Clint Haslerig\HaslCl20,WR,College Stats
+230,1974,NFL,7,173,ATL,James Coode,T,
+231,1974,NFL,10,246,GNB,Doug Troszak,DT,
+232,1974,NFL,11,275,KAN,Bob Thornbladh\ThorBo20,LB,College Stats
+233,1974,NFL,14,347,SFO,Walt Williamson,DE,
+234,1974,NFL,15,373,NOR,Larry Cipa\CipaLa00,QB,College Stats
+235,1974,NFL,16,398,NOR,Don Coleman\ColeDo20,LB,College Stats
+236,1973,NFL,1,7,BUF,Paul Seymour\SeymPa00,TE,College Stats
+237,1973,NFL,3,55,PHI,Randy Logan\LogaRa20,DB,College Stats
+238,1973,NFL,4,104,MIA,Bo Rather\RathBo00,WR,College Stats
+239,1973,NFL,5,120,KAN,Fred Grambau,DE,
+240,1973,NFL,13,335,RAM,Clint Spearman,LB,
+241,1973,NFL,16,395,CHI,Bill Hart,C,
+242,1972,NFL,1,18,CLE,Thom Darden\DardTh00,DB,
+243,1972,NFL,1,20,NYJ,Michael Taylor\TaylMi20,LB,
+244,1972,NFL,2,27,BUF,Reggie McKenzie\McKeRe20,G,College Stats
+245,1972,NFL,2,47,BAL,Glenn Doughty\DougGl00,WR,College Stats
+246,1972,NFL,3,57,STL,Tom Beckman\BeckTo21,DE,
+247,1972,NFL,3,64,DAL,Mike Keller\KellMi20,LB,
+248,1972,NFL,5,109,ATL,Billy Taylor,RB,
+249,1972,NFL,10,255,WAS,Mike Oldham,WR,
+250,1972,NFL,13,334,BAL,Herb Washington,WR,
+251,1972,NFL,16,396,HOU,Guy Murdock\MurdGu20,C,
+252,1972,NFL,17,419,NYG,Fritz Seyferth,RB,
+253,1971,NFL,2,43,STL,Dan Dierdorf\DierDa00,T,College Stats
+254,1971,NFL,3,66,CLE,Paul Staroba\StarPa00,WR,College Stats
+255,1971,NFL,5,125,DET,Pete Newell,G,
+256,1971,NFL,5,127,SFO,Marty Huff\HuffMa20,LB,
+257,1971,NFL,6,132,NOR,Don Moorhead,RB,
+258,1971,NFL,10,240,NYJ,Jim Betts,DB,
+259,1971,NFL,14,344,NYJ,John Harpring,G,
+260,1970,NFL,2,29,MIA,Jim Mandich\MandJi00,TE,College Stats
+261,1970,NFL,5,120,GNB,Cecil Pryor,DE,
+262,1970,NFL,5,127,STL,Barry Pierson,DB,
+263,1970,NFL,14,343,BOS,Garvie Craw,RB,
+264,1970,NFL,14,356,BAL,Tom Curtis\CurtTo20,DB,College Stats
+265,1970,NFL,17,441,MIN,Brian Healy,DB,
+266,1969,NFL,1,20,CLE,Ron Johnson\JohnRo02,RB,College Stats
+267,1969,NFL,3,68,DAL,Thomas Stincic\StinTh20,LB,
+268,1969,NFL,14,346,DET,George Hoey\HoeyGe20,DB,
+269,1968,NFL,5,123,STL,Rocky Rosema\RoseRo20,LB,College Stats
+270,1968,NFL,7,169,NOR,Ray Phillips,G,
+271,1968,NFL,9,238,CLE,David Porter,DT,
+272,1967,NFL,1,20,BAL,Jim Detwiler,HB,
+273,1967,NFL,2,45,BAL,Rick Volk\VolkRi00,DB,College Stats
+274,1967,NFL,3,62,SFO,Frank Nunley\NunlFr20,LB,
+275,1967,NFL,3,78,GNB,John Rowser\RowsJo20,DB,College Stats
+276,1967,NFL,4,83,CLE,Carl Ward\WardCa20,DB,College Stats
+277,1967,NFL,12,314,GNB,Mike Bass\BassMi20,DB,College Stats
+278,1966,NFL,1,2,RAM,Tom Mack\MackTo00,G,
+279,1966,AFL,1,13,NYJ,William Yearby\YearWi20,DE,
+280,1966,NFL,5,71,SFO,Steve Smith\SmitSt20,T,College Stats
+281,1966,NFL,5,73,STL,Jack Clancy\ClanJa00,SE,College Stats
+282,1966,AFL,16,140,HOU,Steve Smith\SmitSt20,T,College Stats
+283,1966,NFL,18,272,CHI,Charley Kines,T,
+284,1965,NFL,3,33,NYG,Bob Timberlake\TimbBo20,K,College Stats
+285,1965,NFL,5,63,PHI,John Henderson\HendJo00,WR,College Stats
+286,1965,NFL,6,72,CLE,Arnie Simkus\SimkAr20,DE,
+287,1965,AFL,13,104,BUF,Bob Timberlake\TimbBo20,K,College Stats
+288,1965,AFL,17,136,BUF,John Henderson\HendJo00,WR,College Stats
+289,1965,NFL,16,223,CLE,Mel Anthony,FB,
+290,1964,AFL,5,34,KAN,Tom Keating\KeatTo00,DT,
+291,1964,NFL,3,40,GNB,Joe O'Donnell\ODonJo00,G,College Stats
+292,1964,NFL,4,53,MIN,Tom Keating\KeatTo00,DT,
+293,1964,AFL,13,101,BUF,Joe O'Donnell\ODonJo00,G,College Stats
+294,1964,NFL,15,207,CLE,John Houtman,T,
+295,1963,NFL,9,121,CLE,Dave Raimey\RaimDa20,DB,College Stats
+296,1962,NFL,2,21,CHI,Bennie McRae\McRaBe20,DB,College Stats
+297,1962,AFL,7,53,NYT,George Mans,E,
+298,1962,AFL,7,54,BOS,John Schopf,T,
+299,1962,AFL,8,62,BOS,Bennie McRae\McRaBe20,DB,College Stats
+300,1962,NFL,5,63,CHI,Bill Tunnicliff,FB,
+301,1962,NFL,5,70,GNB,Jon Schopf,G,
+302,1962,NFL,8,102,DAL,Ken Tureaud,B,
+303,1962,NFL,9,122,DET,Todd Grant,C,
+304,1962,AFL,17,134,BOS,Scott Maentz,E,
+305,1962,AFL,21,161,OAK,Bill Tunnicliff,FB,
+306,1962,AFL,23,178,DEN,Ken Tureaud,HB,
+307,1962,NFL,14,187,STL,George Mans,E,
+308,1962,NFL,20,276,DET,Bob Brown,E,
+309,1961,AFL,22,171,BOS,Bob Johnson,E,
+310,1961,NFL,15,199,WAS,Bob Johnson,E,
+311,1961,AFL,28,222,DTX,Bill Stine,G,
+312,1960,NFL,15,171,DET,Darrell Harper\HarpDa00,HB,College Stats
+313,1959,NFL,4,37,CLE,Gary Prahst,E,
+314,1959,NFL,8,87,CLE,Bob Ptacek\PtacBo20,QB,College Stats
+315,1959,NFL,8,94,CHI,Willie Smith\SmitWi21,G,
+316,1959,NFL,11,124,WAS,Gerry Marciniak,G,
+317,1959,NFL,21,252,BAL,John Hernstein,B,
+318,1958,NFL,1,8,SFO,James Pace\PaceJa20,HB,College Stats
+319,1958,NFL,5,54,WAS,Jim Van Pelt,QB,
+320,1958,NFL,28,331,RAM,Gordy Morrow,E,
+321,1957,NFL,1,4,GNB,Ron Kramer\KramRo00,E,College Stats
+322,1957,NFL,2,22,CRD,Tom Maentz,E,
+323,1957,NFL,3,36,DET,Terry Barr\BarrTe00,HB,College Stats
+324,1957,NFL,7,82,CLE,Mike Rotunno,C,
+325,1957,NFL,21,242,PHI,Charley Brooks,E,
+326,1957,NFL,25,301,NYG,Jerry Goebel,C,
+327,1957,NFL,28,326,PHI,Clem Corona,G,
+328,1956,NFL,10,111,PIT,Lou Baldacci\BaldLo00,HB,College Stats
+329,1956,NFL,23,269,CRD,Tony Branoff,B,
+330,1956,NFL,28,336,RAM,John Morrow\MorrJo04,C,
+331,1955,NFL,12,137,GNB,Art Walker,T,
+332,1955,NFL,14,161,GNB,Fred Baer,B,
+333,1955,NFL,20,231,WAS,Ron Geyer,T,
+334,1955,NFL,26,312,DET,Duncan McDonald,B,
+335,1954,NFL,10,111,GNB,Gene Knutson\KnutGe20,DE,College Stats
+336,1954,NFL,13,148,NYG,Bob Topp\ToppBo20,E,College Stats
+337,1954,NFL,29,344,WAS,Ted Kress,B,
+338,1953,NFL,5,56,GNB,Roger Zatkoff\ZatkRo00,LB,College Stats
+339,1953,NFL,8,91,PIT,Lowell Perry\PerrLo20,E,College Stats
+340,1953,NFL,15,182,DET,Ted Topor\TopoTe20,LB,College Stats
+341,1953,NFL,22,262,PHI,Laurie LeClaire,B,
+342,1952,NFL,6,63,GNB,Tom Johnson\JohnTo21,DT,
+343,1952,NFL,17,196,GNB,Don Peterson,B,
+344,1951,NFL,2,20,PIT,Chuck Ortmann\OrtmCh20,B,College Stats
+345,1951,NFL,5,59,RAM,Tony Momsen\MomsTo20,C,
+346,1951,NFL,9,99,GNB,Dick McWilliams,T,
+347,1951,NFL,12,136,GNB,Carl Kreager,C,
+348,1951,NFL,17,205,CHI,Don Dufek,B,
+349,1951,NFL,27,322,DET,Harry Allis,E,
+350,1950,NFL,10,128,CHI,Al Wahl,T,
+351,1949,NFL,2,15,GNB,Dan Dworsky\DworDa20,LB,
+352,1949,NFL,9,86,NYG,Joe Soboleski\SoboJo20,G,
+353,1949,NFL,9,88,WAS,Ed McNeil,E,
+354,1949,NFL,15,145,PIT,Ed Sobczak,E,
+355,1949,NFL,16,159,CHI,Al Wahl,T,
+356,1949,NFL,17,166,NYG,Wally Teninga,B,
+357,1949,NFL,24,232,DET,Oswald Clark,E,
+358,1948,NFL,6,38,WAS,Jack Weisenburger,B,
+359,1948,NFL,12,97,NYG,Jim Brieske,C,
+360,1948,NFL,14,123,PHI,Dick Kempthorn,B,
+361,1948,NFL,15,127,DET,Pete Elliott,B,
+362,1948,NFL,15,132,PHI,Dick Rifenburg\RifeDi20,E,College Stats
+363,1948,NFL,17,147,DET,Quentin Sickels,G,
+364,1948,NFL,17,153,PHI,Ralph Kohl,T,
+365,1948,NFL,30,283,PIT,Bruce Hilkene,T,
+366,1947,NFL,5,26,DET,Bob Chappuis\ChapBo20,TB,College Stats
+367,1947,NFL,10,76,DET,Chalmers (Bump) Elliott,B,
+368,1947,NFL,16,143,RAM,Ralph Chubb,B,
+369,1947,NFL,17,155,CHI,Wally Dreyer\DreyWa20,DB,
+370,1947,NFL,20,176,DET,Elmer Madar\MadaEl20,E,College Stats
+371,1947,NFL,21,186,DET,J.T. White,E,
+372,1947,NFL,21,194,NYG,Joe Ponsetto,B,
+373,1947,NFL,31,289,CRD,Bob Callahan\CallBo20,C,
+374,1946,NFL,3,21,GNB,Bob Nussbaumer\NussBo20,HB,College Stats
+375,1946,NFL,7,56,GNB,Art Renner,E,
+376,1946,NFL,8,63,PIT,Joe Ponsetto,B,
+377,1946,NFL,17,159,WAS,Mike Prashaw,T,
+378,1945,NFL,1,5,RAM,Elroy Hirsch\HirsEl00,E,
+379,1945,NFL,1,7,CHI,Don Lund,B,
+380,1945,NFL,2,16,RAM,Mike Lazetich\LazeMi20,G,
+381,1945,NFL,5,39,DET,Bob Wiese\WiesBo20,B,
+382,1945,NFL,30,314,CHI,Don Robinson,B,
+383,1944,NFL,1,7,GNB,Merv Pregulman\PregMe20,C,
+384,1944,NFL,3,22,GNB,Tom Kuzma,B,
+385,1944,NFL,3,24,CHI,Rudy Smeja\SmejRu20,E,College Stats
+386,1944,NFL,5,35,DET,John Greene\GreeJo21,E,
+387,1944,NFL,11,101,DET,Paul White\WhitPa20,HB,College Stats
+388,1944,NFL,14,134,DET,Bill Pritula,C,
+389,1944,NFL,15,143,CRD,Jack Carpenter\CarpJa20,T,
+390,1944,NFL,29,299,DET,Robert Derleth\DerlRo20,T,
+391,1943,NFL,3,19,BKN,George Ceithaml,B,
+392,1943,NFL,5,32,PHI,Al Wistert\WistAl00,T,College Stats
+393,1943,NFL,12,101,DET,Bob Kolesar\KoleBo20,G,
+394,1942,NFL,1,5,DET,Bob Westfall\WestBo20,FB,College Stats
+395,1942,NFL,8,69,GNB,Joe Rogers,E,
+396,1942,NFL,18,169,GNB,Bob Ingalls\IngaBo20,C,
+397,1941,NFL,1,1,CHI,Tom Harmon\HarmTo20,HB,College Stats
+398,1941,NFL,1,10,WAS,Forest Evashevski,B,
+399,1941,NFL,5,37,GNB,Ed Frutig\FrutEd20,E,College Stats
+400,1941,NFL,10,82,PIT,Ralph Fritz\FritRa20,G,
+401,1940,NFL,17,159,GNB,Archie Kodros,C,
+402,1939,NFL,12,105,BKN,Ralph Heikkinen\HeikRa20,G,College Stats
+403,1939,NFL,19,179,GNB,John Brennan\BrenJo20,G,
+404,1937,NFL,9,85,PIT,Matt Patanelli,E,
