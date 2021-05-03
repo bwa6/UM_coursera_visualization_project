@@ -19,3 +19,6 @@ For example, a user can click on the point: (750, 0) and see that the left side 
 <br>
 <br>
 This notebook demonstates a dense, interactive visualization that offers an opportunity to explore other potential hypotheses and provides a framework to potentially explore similar analyses with other schools or add other features to explore, such as player position, what number they were picked in the draft, etc.
+<br>
+<br>
+Note that the code to create the visualization is in "Assignment4."
